@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  background-color: white!important;
+  color: black;
+}
+small.text-danger{
+  background-color: white;
+  margin-top: 5px;
+  padding: 0 5px;
+}
